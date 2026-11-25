@@ -1,0 +1,38 @@
+{
+  "sourceRepository": "epistemedeus/x402-data-gateway-skills",
+  "sourceCommit": "9ff00fc908a2f8d376f259ca94f0473d40ef7e99",
+  "sourcePath": "skills/ein-llc-activation-continuation",
+  "filesCopiedUnchanged": [
+    {
+      "path": "skills/ein-llc-activation-continuation/LICENSE",
+      "upstreamBlob": "f255045b1f020d4e5c9a90ea5d899f79d56a2577",
+      "sha256": "bf4623255db76888a7b6919c4011ee054b19bb6b089491ec2106772ecc4e375b",
+      "bytes": 1079
+    },
+    {
+      "path": "skills/ein-llc-activation-continuation/SKILL.md",
+      "upstreamBlob": "00db0e33dc978172a3f3879f2a98a4aa98319e99",
+      "sha256": "3723df7ac398bbb98d210cfe7f9eacf0e3fa039e1b14a2e616e4aa6275b7d5b5",
+      "bytes": 4511
+    },
+    {
+      "path": "skills/ein-llc-activation-continuation/references/LICENSE.txt",
+      "upstreamBlob": "f255045b1f020d4e5c9a90ea5d899f79d56a2577",
+      "sha256": "bf4623255db76888a7b6919c4011ee054b19bb6b089491ec2106772ecc4e375b",
+      "bytes": 1079
+    },
+    {
+      "path": "skills/ein-llc-activation-continuation/references/continuation-pin.json",
+      "upstreamBlob": "198019e9c34890b7abdc1a9d6e4a808c1b894e0f",
+      "sha256": "866e5a4755c3cdc70c52d6c1c84a2a896e8d89c0ad5b5b98eb388e443c8404db",
+      "bytes": 8202
+    },
+    {
+      "path": "skills/ein-llc-activation-continuation/scripts/continuation.mjs",
+      "upstreamBlob": "e1f10f9704100fecd05bdbda9e386272ade0d8d7",
+      "sha256": "07dc8ee41d5a2a29beffdb426113c576e1a72a84060dd24861cb30d30fae3acc",
+      "bytes": 24342
+    }
+  ],
+  "distribution": "Single-brand installable skill. No product authority or payment credentials are bundled."
+}
